@@ -1,4 +1,2 @@
 <?php
-$conn = new mysqli("webdev.crxgtyhmldr1.ap-southeast-1.rds.amazonaws.com", "maria", "maria", "enrollment_arreza");
-?>
-
+$conn = new mysqli("remotemysql.com", "yzrXckd6YC", "KanquRIK2r", "yzrXckd6YC");
